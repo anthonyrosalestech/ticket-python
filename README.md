@@ -1,9 +1,3 @@
-# REST API con Python, Flask y PostgreSQL
-
-REST API con Python, Flask y PostgreSQL. Usaremos el protocolo HTTP junto con los métodos GET, POST, PUT y DELETE y el formato JSON para enviar y recibir datos; además, aprende a probarla utilizando un cliente REST como Insomnia.
-
-<hr/>
-
 Primero, crear un entorno virtual:
 ### `python -m virtualenv env`
 
